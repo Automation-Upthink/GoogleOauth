@@ -1,0 +1,1 @@
+package oauth;import java.io.IOException;/** Returns the raw JSON payload of your OAuth2 client secrets* */public interface ClientConfigProvider {    String loadClientJson() throws ConfigException, IOException;}

@@ -1,0 +1,1 @@
+package oauth;import com.google.auth.Credentials;/** * Load/save access and refresh tokens for reuse */public interface TokenStorage {    Credentials load () throws StorageException;    void save(Credentials credentials) throws StorageException;}

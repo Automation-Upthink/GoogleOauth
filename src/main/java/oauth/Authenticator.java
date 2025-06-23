@@ -1,0 +1,1 @@
+package oauth;import com.google.auth.Credentials;import java.io.IOException;/** Returns valid credentials, refreshing or returns a valid flow if needed* */public interface Authenticator {    Credentials authenticate () throws AuthException, StorageException, IOException, ConfigException;}
