@@ -5,7 +5,43 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="979cb0a3-fe7a-4c89-a734-2107c000ef3a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/oauth/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oauth/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.5/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.5/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.5/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.5/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.5/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.5/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.5/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.5/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.5/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/oauth/AuthException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/oauth/Authenticator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/oauth/ClasspathClientConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/oauth/ClientConfigProvider.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/oauth/ConfigException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/oauth/EnvClientConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/oauth/EnvTokenStorage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/oauth/FileClientConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/oauth/FileTokenStorage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/oauth/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/oauth/OauthEnvAuthenticator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/oauth/OauthFileAuthenticator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/oauth/StorageException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/oauth/TokenStorage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/distributions/untitled-1.0-SNAPSHOT.tar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/distributions/untitled-1.0-SNAPSHOT.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/untitled-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/scripts/untitled" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/scripts/untitled.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/jar/MANIFEST.MF" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
