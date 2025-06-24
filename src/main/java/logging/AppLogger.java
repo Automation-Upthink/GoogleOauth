@@ -1,0 +1,1 @@
+package logging;public interface AppLogger {    void info (String message, Object ...args);    void debug (String message, Object ...args);    void info(String message);}

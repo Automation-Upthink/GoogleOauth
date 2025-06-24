@@ -1,0 +1,1 @@
+package logging;import org.slf4j.Logger;public class LoggerFactory {    private LoggerFactory(){}    public static AppLogger getLogger(Class<?> clazz) {        Logger sl4j = org.slf4j.LoggerFactory.getLogger(clazz);        return new Slf4jLoggerAdapter(sl4j);    }}
